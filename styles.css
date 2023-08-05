@@ -348,7 +348,7 @@ main .container .left .profile{
 
 .middle .create-post{
     display : flex;
-    background: white;
+    background: var(--color-white);
     align-items: center;
     justify-content: space-between;
     margin-top: 1rem;
